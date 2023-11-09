@@ -1,0 +1,49 @@
+body{
+    background-color: black;
+}
+p{
+    color: wheat;
+    font-size: large;
+}
+aside{
+    background-color:#FF8000;
+    color:wheat;
+    font-size: large;
+    width: auto;
+    height: 50px;
+    text-align:center
+
+}
+h2{
+    color: wheat;
+    text-align: center;
+}
+.nav{
+    width: 150px;
+    height: 25px;
+    font-size: larger;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+.mainNav{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    text-align:center;
+
+}
+.photo{
+    text-align: center;
+    
+}
+.container{
+    position: fixed;
+    width: 100%;
+    height: auto;
+    background-color: #FF8000;
+    text-align:center;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+}
