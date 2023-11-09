@@ -51,3 +51,7 @@ h2{
     left: 0px;
     right: 0px;
 }
+::first-letter{
+    color: #b1085c;
+    font-size: larger;
+}
